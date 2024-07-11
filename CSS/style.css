@@ -1,0 +1,35 @@
+h2{
+    padding-left: 350px;
+    letter-spacing: 9px;
+}
+span{
+    color: rgb(230, 116, 10) ;
+    height: 5px;
+}
+#email{
+    width: 900px;
+    background-color: rgb(160, 157, 157);
+    margin-left: 9px;
+}
+.input1{
+    background-color: grey;
+    width: 400px;
+}
+
+#para{
+    background-color: rgb(230, 116, 10) ;
+    color: white;
+    width: 890px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+.fullbody{
+    padding-left: 150px;
+}
+.input2{
+    margin-left: 50px;
+    background-color: grey;
+    width: 442px;
+}
